@@ -1,7 +1,7 @@
 // Created on Sept 20, 2021,
 // Author Pranav
 
-#include < iostream >
+#include <iostream>
 #include <vector>
 
 using namespace std;
