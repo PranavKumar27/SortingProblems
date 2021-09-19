@@ -1,5 +1,6 @@
 // Created on Sept 20, 2021,
 // Author Pranav
+// Merge Sort works on the Alogorithm of Divide and Concur Mechanism
 
 #include <iostream>
 #include <vector>
